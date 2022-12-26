@@ -5,7 +5,7 @@ ________________________________________________________________________________
 HTML , CSS , and BOOTSTRAP are used to design this website.
 
 
-Are you an icecream lover? Are you looking to find new varities of icecream? If yes, then you are at right place. Check out your favorite and new varities of tasty icecreams on our website to treat yourself and get your mood better. Get lost in this Beautiful IceCream.
+Are you an icecream lover? Are you looking to find new varities of icecream? If yes, then you are at right place. Check out your favorite and new varities of tasty icecreams on our website to treat yourself and get your mood better. Get lost in this Beautiful IceCream World.
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/77123160/209574782-b0211598-77bd-4c6a-878c-46060b217847.png)
 ![Screenshot (93)](https://user-images.githubusercontent.com/77123160/209574792-f583c697-5698-4ca0-b304-e230cec155e0.png)
