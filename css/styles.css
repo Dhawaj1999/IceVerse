@@ -1,0 +1,281 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation bar */
+.logo{
+  height: 80px;
+  width: 200px;
+}
+
+div.nav-text-div .nav-text{
+  color: #fff;
+}
+
+/* Title */
+#title{
+  padding: 1% 10%;
+}
+
+/* Title Background Image */
+#title-image-background{
+  padding: 3% 10% 0 11.7%;
+
+}
+
+.second-container{
+  background-size:contain;
+  background-position:center;
+
+}
+
+
+/* icecream-and-sorbetto */
+#icecream-and-sorbetto{
+  padding: 7% 11%;
+
+}
+
+#icecream-and-sorbetto div h1{
+  color: #8a92d8;
+  font-size: 3.5rem;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+#icecream-and-sorbetto div p{
+  color: grey;
+  font-size: 1.5rem;
+  width: 100%;
+  line-height: 0.5;
+
+}
+
+.image1{
+  height: 100%;
+}
+
+.image2{
+  height: 900px;
+  object-fit: cover;
+}
+
+.image3{
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 1028px) {
+  #icecream-and-sorbetto div h1{
+    text-align: center;
+    padding-top: 5%;
+  }
+
+  #icecream-and-sorbetto div p{
+    text-align: center;
+    font-size: 1.2rem;
+  }
+}
+
+/* cocktail */
+#cocktail{
+  padding: 5% 11% 0 11%;
+}
+
+.cocktail-image{
+  width: 100%;
+  object-fit: contain;
+  border-radius: 2%;
+}
+
+.cocktail-text{
+  text-align: center;
+  padding-top: 7%;
+  font-family: 'Montserrat';
+  padding-bottom: 5%;
+}
+
+#cocktail h1{
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #8a92d8;
+}
+
+#cocktail h6{
+  line-height: 2;
+  font-weight: bold;
+}
+
+/* cookies icecream */
+#cookies-icecream{
+  background-image: url('../images/cookies-ice-cream.jpg');
+  height: 600px;
+  width: 100%;
+  background-size: contain;
+}
+
+ /* icecream girl */
+ #icecream-girl{
+   padding: 9% 13%;
+ }
+
+ .icegirl-image{
+   height: 510px;
+   width: 700px;
+   object-fit: cover;
+ }
+
+ .card{
+    text-align: center;
+    padding: 2%;
+}
+
+.card-title{
+    color: #EA4D33;
+    padding-bottom: 5%;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 3rem;
+}
+
+.card-text{
+    font-size: 1.1rem;
+    line-height: 2;
+    padding-bottom: 7%;
+    font-family: 'Montserrat';
+}
+
+@media (max-width: 1028px) {
+  #icecream-girl{
+    text-align: center;
+  }
+
+  .icegirl-image{
+    height: 270px;
+    width: 370px;
+    object-fit: cover;
+
+  }
+
+  .card{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* slides  */
+#slides{
+  text-align: center;
+}
+
+#slides h1{
+  font-size: 4rem;
+  color: #8a92d8;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  line-height: 2;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+#slides img{
+  height: 650px;
+  object-fit: cover;
+}
+
+/* review */
+#user-review{
+  padding: 10% 11%;
+  text-align: center;
+}
+
+#user-review h1{
+  color: #8a92d8;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 3.5rem;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+#user-review p{
+  color: gray;
+  font-size: 1rem;
+  font-family: 'Montserrat';
+}
+
+.cards{
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card img{
+  height: 140px;
+  width: 140px;
+  border-radius: 100%;
+  object-fit: cover;
+  border: 5px solid;
+  border-color: #8a92d8;
+  margin-bottom: 10%;
+}
+
+.background{
+  background-color: #8a92d8;
+  margin-top: 5%;
+  height: auto;
+  width: auto;
+  border-radius: 1%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* contact */
+#contact-us{
+  background-image: url('../images/contact-background.png');
+  height: 670px;
+  width: 100%;
+  padding: 5% 11% 5% 28%;
+  background-size: contain;
+  font-family: 'Montserrat, sans-serif';
+  font-weight: bold;
+  text-align: center;
+}
+
+.contact-form{
+  width: 28rem;
+  padding: 3.5% 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+@media (max-width: 1028px) {
+  #contact-us{
+    padding: 7% 11%;
+  }
+
+   .card{
+   width: 22rem;
+  }
+}
+
+/* footer */
+#footer{
+  background-color: #282A3A;
+  text-align: center;
+  padding: 5% 15% 5% 15%;
+}
+
+.third-container {
+  padding: 0;
+}
+
+#footer p{
+  color: #fff;
+}
+
+.social-icon{
+  margin: 20px 10px;
+  color: #fff;
+}
